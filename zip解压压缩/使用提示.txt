@@ -1,1 +1,3 @@
 记得先装依赖，adm—zip
+请用npm 来安装
+npm install adm-zip
