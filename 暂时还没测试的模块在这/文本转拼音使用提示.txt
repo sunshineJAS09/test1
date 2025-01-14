@@ -1,0 +1,2 @@
+请先安装PINYIN库
+npm install pinyin
