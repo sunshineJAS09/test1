@@ -8,3 +8,6 @@ const pinyinText = n.文本转拼音(text);
 
 // 输出转换后的拼音
 console.log('转换后的拼音:', pinyinText);
+
+
+转换后的拼音: zhe shi yi ge shi li wen ben bao han zhong wen zi fu
